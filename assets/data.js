@@ -27,7 +27,7 @@ function renderItems(collection) {
     activeDot.style.height = '100vh'
   
     const activeTitle = `
-        <h2 class="activity-title">Active Squirrels: ${runningTrue.length / collection.length * 100}%</h2>
+        <h2 class="activity-title">NYC Water Consumption: ${runningTrue.length / collection.length * 100}%</h2>
     `
   
     activeDot.insertAdjacentHTML('beforeend', activeTitle)
@@ -52,39 +52,15 @@ function renderItems(collection) {
                   <div class="data-container">
                       <div class="data-point" style="left: ${item.leftPosition};"></div>
                       <div class="data-details">
-                          <p>${item.Language}</p>
-                          <div class="mother">${item.wordForMother}</div>
-                          <p><em> ${item.placeOfOrigin}
+                          <p>${item.Year}</p>
+                          <div class="population">${item.newYorkCityPopulation}</div>
+                          <p> ${item.nycConsumptionPerDay}</p>
+                          <p> ${item.perCapita}</p>
                       </div>
                   </div>
               `;
   
       listItem.insertAdjacentHTML("beforeend", itemDetails); // Which can we then insert
-  
-      // You can build logic from your data, too
-      if (item.timeOfOrigin == "old") {
-        // If this is `false`
-        listItem.classList.add("old"); // Add this class to the whole `li`
-      }
-  
-      if (item.timeOfOrigin == "middle") {
-        // If this is `true`
-        listItem.classList.add("middle"); // Add this class to the whole `li`
-      }
-  
-      if (item.timeOfOrigin == "late") {
-        // If this is `true`
-        listItem.classList.add("late"); // Add this class to the whole `li`
-      }
-  
-      if (item.timeOfOrigin == "modern") {
-        // If this is `true`
-        listItem.classList.add("modern"); // Add this class to the whole `li`
-      }
-
-  dotContainer.addEventListener('mouseover',()=> {
-    audio.play()
-    })
 
       collectionList.appendChild(listItem); // Then add the whole `li` into the `ul`
     });
@@ -99,52 +75,3 @@ function renderItems(collection) {
       // And passes the data to the function, above!
       renderItems(collection.reverse()); // In reverse order
     });
-//draggable box
-    const dragElement = (element, dragzone) => {
-      let pos1 = 0,
-        pos2 = 0,
-        pos3 = 0,
-        pos4 = 0;
-  //MouseUp occurs when the user releases the mouse button
-      const dragMouseUp = () => {
-        document.onmouseup = null;
-  //onmousemove attribute fires when the pointer is moving while it is over an element.
-        document.onmousemove = null;
-  
-        element.classList.remove("drag");
-      };
-  
-      const dragMouseMove = (event) => {
-  
-        event.preventDefault();
-  //clientX property returns the horizontal coordinate of the mouse pointer
-        pos1 = pos3 - event.clientX;
-  //clientY property returns the vertical coordinate of the mouse pointer
-        pos2 = pos4 - event.clientY;
-        pos3 = event.clientX;
-        pos4 = event.clientY;
-  //offsetTop property returns the top position relative to the parent
-        element.style.top = `${element.offsetTop - pos2}px`;
-        element.style.left = `${element.offsetLeft - pos1}px`;
-      };
-  
-      const dragMouseDown = (event) => {
-        event.preventDefault();
-  
-        pos3 = event.clientX;
-        pos4 = event.clientY;
-  
-        element.classList.add("drag");
-  
-        document.onmouseup = dragMouseUp;
-        document.onmousemove = dragMouseMove;
-      };
-  
-      dragzone.onmousedown = dragMouseDown;
-    };
-  
-    const dragable = document.getElementById("dragable"),
-      dragzone = document.getElementById("dragzone");
-  
-    dragElement(dragable, dragzone);
-

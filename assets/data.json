@@ -1,260 +1,260 @@
 [
     {
       "Year": 1979,
-      "New York City Population": 7102100,
-      "NYC Consumption(Million gallons per day)": 1512,
-      "Per Capita(Gallons per person per day)": 213
+      "newYorkCityPopulation": 7102100,
+      "nycConsumptionPerDay": 1512,
+      "perCapita": 213
     },
     {
       "Year": 1980,
-      "New York City Population": 7071639,
-      "NYC Consumption(Million gallons per day)": 1506,
-      "Per Capita(Gallons per person per day)": 213
+      "newYorkCityPopulation": 7071639,
+      "nycConsumptionPerDay": 1506,
+      "perCapita": 213
     },
     {
       "Year": 1981,
-      "New York City Population": 7089241,
-      "NYC Consumption(Million gallons per day)": 1309,
-      "Per Capita(Gallons per person per day)": 185
+      "newYorkCityPopulation": 7089241,
+      "nycConsumptionPerDay": 1309,
+      "perCapita": 185
     },
     {
       "Year": 1982,
-      "New York City Population": 7109105,
-      "NYC Consumption(Million gallons per day)": 1382,
-      "Per Capita(Gallons per person per day)": 194
+      "newYorkCityPopulation": 7109105,
+      "nycConsumptionPerDay": 1382,
+      "perCapita": 194
     },
     {
       "Year": 1983,
-      "New York City Population": 7181224,
-      "NYC Consumption(Million gallons per day)": 1424,
-      "Per Capita(Gallons per person per day)": 198
+      "newYorkCityPopulation": 7181224,
+      "nycConsumptionPerDay": 1424,
+      "perCapita": 198
     },
     {
       "Year": 1984,
-      "New York City Population": 7234514,
-      "NYC Consumption(Million gallons per day)": 1465,
-      "Per Capita(Gallons per person per day)": 203
+      "newYorkCityPopulation": 7234514,
+      "nycConsumptionPerDay": 1465,
+      "perCapita": 203
     },
     {
       "Year": 1985,
-      "New York City Population": 7274054,
-      "NYC Consumption(Million gallons per day)": 1326,
-      "Per Capita(Gallons per person per day)": 182
+      "newYorkCityPopulation": 7274054,
+      "nycConsumptionPerDay": 1326,
+      "perCapita": 182
     },
     {
       "Year": 1986,
-      "New York City Population": 7319246,
-      "NYC Consumption(Million gallons per day)": 1351,
-      "Per Capita(Gallons per person per day)": 185
+      "newYorkCityPopulation": 7319246,
+      "nycConsumptionPerDay": 1351,
+      "perCapita": 185
     },
     {
       "Year": 1987,
-      "New York City Population": 7342476,
-      "NYC Consumption(Million gallons per day)": 1447,
-      "Per Capita(Gallons per person per day)": 197
+      "newYorkCityPopulation": 7342476,
+      "nycConsumptionPerDay": 1447,
+      "perCapita": 197
     },
     {
       "Year": 1988,
-      "New York City Population": 7353719,
-      "NYC Consumption(Million gallons per day)": 1484,
-      "Per Capita(Gallons per person per day)": 202
+      "newYorkCityPopulation": 7353719,
+      "nycConsumptionPerDay": 1484,
+      "perCapita": 202
     },
     {
       "Year": 1989,
-      "New York City Population": 7344175,
-      "NYC Consumption(Million gallons per day)": 1402,
-      "Per Capita(Gallons per person per day)": 191
+      "newYorkCityPopulation": 7344175,
+      "nycConsumptionPerDay": 1402,
+      "perCapita": 191
     },
     {
       "Year": 1990,
-      "New York City Population": 7335650,
-      "NYC Consumption(Million gallons per day)": 1424,
-      "Per Capita(Gallons per person per day)": 194
+      "newYorkCityPopulation": 7335650,
+      "nycConsumptionPerDay": 1424,
+      "perCapita": 194
     },
     {
       "Year": 1991,
-      "New York City Population": 7374501,
-      "NYC Consumption(Million gallons per day)": 1469,
-      "Per Capita(Gallons per person per day)": 199
+      "newYorkCityPopulation": 7374501,
+      "nycConsumptionPerDay": 1469,
+      "perCapita": 199
     },
     {
       "Year": 1992,
-      "New York City Population": 7428944,
-      "NYC Consumption(Million gallons per day)": 1369,
-      "Per Capita(Gallons per person per day)": 184
+      "newYorkCityPopulation": 7428944,
+      "nycConsumptionPerDay": 1369,
+      "perCapita": 184
     },
     {
       "Year": 1993,
-      "New York City Population": 7506166,
-      "NYC Consumption(Million gallons per day)": 1368.5,
-      "Per Capita(Gallons per person per day)": 182
+      "newYorkCityPopulation": 7506166,
+      "nycConsumptionPerDay": 1368.5,
+      "perCapita": 182
     },
     {
       "Year": 1994,
-      "New York City Population": 7570458,
-      "NYC Consumption(Million gallons per day)": 1357.7,
-      "Per Capita(Gallons per person per day)": 179
+      "newYorkCityPopulation": 7570458,
+      "nycConsumptionPerDay": 1357.7,
+      "perCapita": 179
     },
     {
       "Year": 1995,
-      "New York City Population": 7633040,
-      "NYC Consumption(Million gallons per day)": 1325.7,
-      "Per Capita(Gallons per person per day)": 174
+      "newYorkCityPopulation": 7633040,
+      "nycConsumptionPerDay": 1325.7,
+      "perCapita": 174
     },
     {
       "Year": 1996,
-      "New York City Population": 7697812,
-      "NYC Consumption(Million gallons per day)": 1297.9,
-      "Per Capita(Gallons per person per day)": 169
+      "newYorkCityPopulation": 7697812,
+      "nycConsumptionPerDay": 1297.9,
+      "perCapita": 169
     },
     {
       "Year": 1997,
-      "New York City Population": 7773443,
-      "NYC Consumption(Million gallons per day)": 1205.5,
-      "Per Capita(Gallons per person per day)": 155
+      "newYorkCityPopulation": 7773443,
+      "nycConsumptionPerDay": 1205.5,
+      "perCapita": 155
     },
     {
       "Year": 1998,
-      "New York City Population": 7858259,
-      "NYC Consumption(Million gallons per day)": 1219.5,
-      "Per Capita(Gallons per person per day)": 155
+      "newYorkCityPopulation": 7858259,
+      "nycConsumptionPerDay": 1219.5,
+      "perCapita": 155
     },
     {
       "Year": 1999,
-      "New York City Population": 7947660,
-      "NYC Consumption(Million gallons per day)": 1237.2,
-      "Per Capita(Gallons per person per day)": 156
+      "newYorkCityPopulation": 7947660,
+      "nycConsumptionPerDay": 1237.2,
+      "perCapita": 156
     },
     {
       "Year": 2000,
-      "New York City Population": 8008278,
-      "NYC Consumption(Million gallons per day)": 1240.4,
-      "Per Capita(Gallons per person per day)": 155
+      "newYorkCityPopulation": 8008278,
+      "nycConsumptionPerDay": 1240.4,
+      "perCapita": 155
     },
     {
       "Year": 2001,
-      "New York City Population": 8024963.5,
-      "NYC Consumption(Million gallons per day)": 1184,
-      "Per Capita(Gallons per person per day)": 148
+      "newYorkCityPopulation": 8024963.5,
+      "nycConsumptionPerDay": 1184,
+      "perCapita": 148
     },
     {
       "Year": 2002,
-      "New York City Population": 8041649,
-      "NYC Consumption(Million gallons per day)": 1135.6,
-      "Per Capita(Gallons per person per day)": 141
+      "newYorkCityPopulation": 8041649,
+      "nycConsumptionPerDay": 1135.6,
+      "perCapita": 141
     },
     {
       "Year": 2003,
-      "New York City Population": 8058334.5,
-      "NYC Consumption(Million gallons per day)": 1093.7,
-      "Per Capita(Gallons per person per day)": 136
+      "newYorkCityPopulation": 8058334.5,
+      "nycConsumptionPerDay": 1093.7,
+      "perCapita": 136
     },
     {
       "Year": 2004,
-      "New York City Population": 8075020,
-      "NYC Consumption(Million gallons per day)": 1099.5,
-      "Per Capita(Gallons per person per day)": 136
+      "newYorkCityPopulation": 8075020,
+      "nycConsumptionPerDay": 1099.5,
+      "perCapita": 136
     },
     {
       "Year": 2005,
-      "New York City Population": 8091705.5,
-      "NYC Consumption(Million gallons per day)": 1138,
-      "Per Capita(Gallons per person per day)": 141
+      "newYorkCityPopulation": 8091705.5,
+      "nycConsumptionPerDay": 1138,
+      "perCapita": 141
     },
     {
       "Year": 2006,
-      "New York City Population": 8108391,
-      "NYC Consumption(Million gallons per day)": 1069,
-      "Per Capita(Gallons per person per day)": 132
+      "newYorkCityPopulation": 8108391,
+      "nycConsumptionPerDay": 1069,
+      "perCapita": 132
     },
     {
       "Year": 2007,
-      "New York City Population": 8125076.5,
-      "NYC Consumption(Million gallons per day)": 1114,
-      "Per Capita(Gallons per person per day)": 137
+      "newYorkCityPopulation": 8125076.5,
+      "nycConsumptionPerDay": 1114,
+      "perCapita": 137
     },
     {
       "Year": 2008,
-      "New York City Population": 8141762,
-      "NYC Consumption(Million gallons per day)": 1098,
-      "Per Capita(Gallons per person per day)": 135
+      "newYorkCityPopulation": 8141762,
+      "nycConsumptionPerDay": 1098,
+      "perCapita": 135
     },
     {
       "Year": 2009,
-      "New York City Population": 8158447.5,
-      "NYC Consumption(Million gallons per day)": 1007.5,
-      "Per Capita(Gallons per person per day)": 123
+      "newYorkCityPopulation": 8158447.5,
+      "nycConsumptionPerDay": 1007.5,
+      "perCapita": 123
     },
     {
       "Year": 2010,
-      "New York City Population": 8175133,
-      "NYC Consumption(Million gallons per day)": 1039,
-      "Per Capita(Gallons per person per day)": 127
+      "newYorkCityPopulation": 8175133,
+      "nycConsumptionPerDay": 1039,
+      "perCapita": 127
     },
     {
       "Year": 2011,
-      "New York City Population": 8337995,
-      "NYC Consumption(Million gallons per day)": 1021,
-      "Per Capita(Gallons per person per day)": 122
+      "newYorkCityPopulation": 8337995,
+      "nycConsumptionPerDay": 1021,
+      "perCapita": 122
     },
     {
       "Year": 2012,
-      "New York City Population": 8463949,
-      "NYC Consumption(Million gallons per day)": 1009.14,
-      "Per Capita(Gallons per person per day)": 119
+      "newYorkCityPopulation": 8463949,
+      "nycConsumptionPerDay": 1009.14,
+      "perCapita": 119
     },
     {
       "Year": 2013,
-      "New York City Population": 8565546,
-      "NYC Consumption(Million gallons per day)": 1006.1,
-      "Per Capita(Gallons per person per day)": 117
+      "newYorkCityPopulation": 8565546,
+      "nycConsumptionPerDay": 1006.1,
+      "perCapita": 117
     },
     {
       "Year": 2014,
-      "New York City Population": 8655309,
-      "NYC Consumption(Million gallons per day)": 996,
-      "Per Capita(Gallons per person per day)": 115
+      "newYorkCityPopulation": 8655309,
+      "nycConsumptionPerDay": 996,
+      "perCapita": 115
     },
     {
       "Year": 2015,
-      "New York City Population": 8736703,
-      "NYC Consumption(Million gallons per day)": 1009,
-      "Per Capita(Gallons per person per day)": 115
+      "newYorkCityPopulation": 8736703,
+      "nycConsumptionPerDay": 1009,
+      "perCapita": 115
     },
     {
       "Year": 2016,
-      "New York City Population": 8794605,
-      "NYC Consumption(Million gallons per day)": 1002,
-      "Per Capita(Gallons per person per day)": 114
+      "newYorkCityPopulation": 8794605,
+      "nycConsumptionPerDay": 1002,
+      "perCapita": 114
     },
     {
       "Year": 2017,
-      "New York City Population": 8815448,
-      "NYC Consumption(Million gallons per day)": 990.2,
-      "Per Capita(Gallons per person per day)": 112
+      "newYorkCityPopulation": 8815448,
+      "nycConsumptionPerDay": 990.2,
+      "perCapita": 112
     },
     {
       "Year": 2018,
-      "New York City Population": 8826472,
-      "NYC Consumption(Million gallons per day)": 1008,
-      "Per Capita(Gallons per person per day)": 114
+      "newYorkCityPopulation": 8826472,
+      "nycConsumptionPerDay": 1008,
+      "perCapita": 114
     },
     {
       "Year": 2019,
-      "New York City Population": 8824887,
-      "NYC Consumption(Million gallons per day)": 987.4,
-      "Per Capita(Gallons per person per day)": 112
+      "newYorkCityPopulation": 8824887,
+      "nycConsumptionPerDay": 987.4,
+      "perCapita": 112
     },
     {
       "Year": 2020,
-      "New York City Population": 8804190,
-      "NYC Consumption(Million gallons per day)": 981,
-      "Per Capita(Gallons per person per day)": 111
+      "newYorkCityPopulation": 8804190,
+      "nycConsumptionPerDay": 981,
+      "perCapita": 111
     },
     {
       "Year": 2021,
-      "New York City Population": 8467513,
-      "NYC Consumption(Million gallons per day)": 979,
-      "Per Capita(Gallons per person per day)": 116
+      "newYorkCityPopulation": 8467513,
+      "nycConsumptionPerDay": 979,
+      "perCapita": 116
     }
   ]
