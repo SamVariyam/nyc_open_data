@@ -160,3 +160,13 @@ model-viewer{
   50% { transform: translateY(-5px); }
   100% { transform: translateY(0); }
 }
+
+.bubble {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  pointer-events: none; /* make sure the bubbles don't interfere with mouse events */
+}
