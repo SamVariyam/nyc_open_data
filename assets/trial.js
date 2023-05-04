@@ -47,6 +47,9 @@ function addAllYears(data, divId){
                 console.log(height);
                 lightBlue.style.height = `${(100-height)}%`;
 
+                darkBlue.classList.add('animate');
+                lightBlue.classList.add('animate');
+
             }
 
             waterFunction();

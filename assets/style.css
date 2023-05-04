@@ -114,11 +114,13 @@ z-index:15;
   width:100%;
   background-color:#5869FF;
   bottom:0;
+  transition: height 0.5s ease-in-out;
 }
 
 .per-capita-water{
   width:100%;
   background-color:#02C2FF;
+  transition: height 0.5s ease-in-out;
 }
 
 /* decoration styles */
@@ -145,4 +147,16 @@ model-viewer{
   opacity:.7;
   height:40vw;
   width:40vw;
+}
+
+/* animations */
+
+.animate {
+  animation: water-rise-fall 2s linear infinite;
+}
+
+@keyframes water-rise-fall {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
 }
