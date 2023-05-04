@@ -1,9 +1,6 @@
 let myData;
 let totalPopulation = document.getElementById("population-total");
-//first try to get year horizontal and there's an event when you click on it
-// declare a global variable: let blahBlah
-// inside click function change blahBlah to item.etc.
-//inside html file, replace the number with variable, may have to do somethng like ${item.Year}
+
 
 
 fetch("assets/data.json")
