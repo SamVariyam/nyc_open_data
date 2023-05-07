@@ -80,8 +80,8 @@ z-index:15;
   padding-left:20px;
   padding-right:20px;
   z-index:15;
+  color:#5869FF
 }
-
 
 .per-capita{
   display:flex;
@@ -97,6 +97,7 @@ z-index:15;
   flex-direction:column;
   text-align:center;
   z-index:4;
+  color:#02C2FF
 }
 
 /* water */

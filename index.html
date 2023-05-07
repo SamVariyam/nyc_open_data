@@ -29,7 +29,7 @@
 			<div class="data">
 				<div class="nyc-consumption">
 					<div class="nyc-consumption-title">
-						<span>NYC CONSUMPTION:</span>
+						<span>AVERAGE NYC WATER CONSUMPTION:</span>
 					</div>
 					<div class="consumption-data" id="consumption-total" data-consumption="${item.nycConsumptionPerDay}"></div>
 				</div>
@@ -37,10 +37,12 @@
 					<div class="population" id="population-total" data-population="${item.newYorkCityPopulation}"></div>
 					<div class="model">
 						<model-viewer id="model" src="assets/earthsphere.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1.2" exposure="0.85"> </model-viewer>
+						
 					</div>
 				</div>
 				<div class="per-capita">
-					<span>PER CAPITA:</span>
+					<span>AVERAGE NYC WATER 
+						<br>CONSUMPTION PER CAPITA:</span>
 					<div class="per-capita-data" id="per-capita" data-capita="${item.perCapita}"></div>
 				</div>
 				<div class="water-container">
