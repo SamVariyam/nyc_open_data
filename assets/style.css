@@ -1,15 +1,16 @@
+
 /* basic styles */
 body{
   font-family: "forma-djr-display", sans-serif;
 font-weight: 700;
 font-style: normal;
-  font-size: 30px;
+  font-size: 2em;
 }
 h1{
   font-family: "forma-djr-display", sans-serif;
   font-weight: 700;
   font-style: normal;
-font-size: 110px;
+font-size: 3.5em;
 z-index:15;
 }
 
@@ -170,4 +171,47 @@ model-viewer{
   border-radius: 50%;
   opacity: 0.5;
   pointer-events: none; /* make sure the bubbles don't interfere with mouse events */
+}
+
+@media (max-width: 400px) {
+ 
+  html{
+    width:100vw;
+  }
+  body{
+    font-size:16px;
+    margin:0;
+    width: 100vw;
+  }
+  h1{
+    font-size:60px;
+  }
+  .population-data-point{
+    font-size:30px;
+  }
+  .nyc-consumption{
+    justify-content:center;
+    padding-top: 40%;
+  }
+  .per-capita{
+    padding-left:20;
+    padding-top:7%;
+  }
+  .water-container{
+    padding-top:18%;
+  }
+  .model{
+    top:13%;
+  }
+  .population{
+    margin-top:15%;
+    align-content:center;
+    justify-content:center;
+  }
+  .consumption-data{
+    text-align:right;
+  }
+  .per-capita-data{
+    text-align:right;
+  }
 }
